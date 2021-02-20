@@ -6,8 +6,7 @@ This is my first mobile game that I published
 ![Menu](https://raw.githubusercontent.com/Jonattaz/Acqua-Chaser/main/Images/Menu.png?token=APYTIT34XWC6IFKTWHEMJ63AGEAC2)
 
 ## Options
-![Options](https://raw.githubusercontent.com/Jonattaz/Acqua-Chaser/main/Images/Options.png?token=APYTIT66PICYAR5LK5ZZFR3AGD7MW)
-
+![Options](https://raw.githubusercontent.com/Jonattaz/Acqua-Chaser/main/Images/Options.png?token=APYTIT4RNS4RVFRIBUZYWV3AGEAG4)
 
 ## Language Option
 ![Language](https://raw.githubusercontent.com/Jonattaz/Acqua-Chaser/main/Images/Language.png?token=APYTITZDADJTTXHBXOATTKLAGD7VG)
@@ -17,6 +16,3 @@ This is my first mobile game that I published
 
 ## Try Again
 ![TryAgain](https://raw.githubusercontent.com/Jonattaz/Acqua-Chaser/main/Images/TryAgain.png?token=APYTIT6VDSWJRD7FMGBVKGDAGD73U)
-
-## Game Icon
-![GameIcon](https://github.com/Jonattaz/Acqua-Chaser/blob/main/Images/WaterHunterIcon.png)
