@@ -3,7 +3,7 @@
 This is my first mobile game that I published
 
 ## Menu
-![Menu](https://raw.githubusercontent.com/Jonattaz/Acqua-Chaser/main/Images/Menu.png?token=APYTIT5XI5V2HK45YD4RLVTAGD7LW)
+![Menu](https://raw.githubusercontent.com/Jonattaz/Acqua-Chaser/main/Images/Menu.png?token=APYTIT34XWC6IFKTWHEMJ63AGEAC2)
 
 ## Options
 ![Options](https://raw.githubusercontent.com/Jonattaz/Acqua-Chaser/main/Images/Options.png?token=APYTIT66PICYAR5LK5ZZFR3AGD7MW)
