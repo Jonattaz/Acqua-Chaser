@@ -1,6 +1,6 @@
 # AcquaChaser
 
-This is my first mobile game that I published
+Mobile Game
 
 ## Menu
 ![Menu](https://raw.githubusercontent.com/Jonattaz/Acqua-Chaser/main/Images/Menu.png?token=APYTIT34XWC6IFKTWHEMJ63AGEAC2)
